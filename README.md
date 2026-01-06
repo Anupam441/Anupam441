@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @Anupam441
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-👋 Hi, I'm Anupam Yadav  
+
+🎓 B.Tech Computer Science (Core) Student  
+💻 Interested in Java, Python, and Web Development  
+🌱 Currently learning Data Structures, Git & Open Source  
+🤝 Looking to collaborate on beginner-friendly open-source projects  
+📫 How to reach me: GitHub | LinkedIn  
+⚡ Fun fact: I love learning by building real projects  
+
+🔖 Open Source Programs:
+- Social Winter of Code (SWOC) Aspirant
 
 <!---
+
 Anupam441/Anupam441 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
