@@ -1,116 +1,44 @@
--👋 Hi, I'm Anupam Yadav  
+# Hi, I'm Anupam Yadav! 👋
 
-🎓 B.Tech Computer Science (Core) Student  
-💻 Interested in Java, Python, and Web Development  
-🌱 Currently learning Data Structures, Git & Open Source  
-🤝 Looking to collaborate on beginner-friendly open-source projects  
-📫 How to reach me: GitHub | LinkedIn  
-⚡ Fun fact: I love learning by building real projects  
+🎓 B.Tech Computer Science Student
+💻 Full Stack Web Developer
+🌱 Learning DSA, React, Node.js & MongoDB
 
-🔖 Open Source Programs:
-- Social Winter of Code (SWOC) Aspirant
+---
 
-<!---
+## 🏗️ Featured Project — Anuj Construction Website
 
-Anupam441/Anupam441 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Business Website</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-        }
-        header {
-            background-color: #333;
-            color: #fff;
-            padding: 15px 20px;
-            text-align: center;
-        }
-        nav {
-            display: flex;
-            justify-content: center;
-            background-color: #444;
-            padding: 10px 0;
-        }
-        nav a {
-            color: #fff;
-            text-decoration: none;
-            margin: 0 15px;
-            padding: 10px 15px;
-            border-radius: 5px;
-        }
-        nav a:hover {
-            background-color: #555;
-        }
-        .hero {
-            text-align: center;
-            padding: 50px 20px;
-            background: linear-gradient(to right, #4facfe, #00f2fe);
-            color: #fff;
-        }
-        .services {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-around;
-            padding: 20px;
-        }
-        .service {
-            background: #fff;
-            margin: 15px;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-            width: 300px;
-            text-align: center;
-        }
-        footer {
-            text-align: center;
-            background-color: #333;
-            color: #fff;
-            padding: 10px 0;
-            margin-top: 20px;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Welcome to [Your Business Name]</h1>
-        <p>Your Trusted Partner for Quality Services</p>
-    </header>
-    <nav>
-        <a href="#">Home</a>
-        <a href="#services">Services</a>
-        <a href="#contact">Contact Us</a>
-        <a href="#about">About Us</a>
-    </nav>
-    <div class="hero">
-        <h2>Grow Your Business with Us</h2>
-        <p>We provide top-notch services to help you succeed.</p>
-    </div>
-    <div id="services" class="services">
-        <div class="service">
-            <h3>Service 1</h3>
-            <p>Detail about your first service.</p>
-        </div>
-        <div class="service">
-            <h3>Service 2</h3>
-            <p>Detail about your second service.</p>
-        </div>
-        <div class="service">
-            <h3>Service 3</h3>
-            <p>Detail about your third service.</p>
-        </div>
-    </div>
-    <footer>
-        <p>&copy; 2024 [Your Business Name]. All Rights Reserved.</p>
-    </footer>
-</body>
-</html>
+A complete professional full-stack website built for my father's construction business!
+
+🌐 **Live:** [anuj-construction-client.vercel.app](https://anuj-construction-client.vercel.app)
+
+✅ React 19 + Vite + Tailwind CSS
+✅ Node.js + Express.js + MongoDB
+✅ JWT Authentication + Admin Panel
+✅ Deployed on Vercel + Render
+
+---
+
+## 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Anupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anupam441&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anupam441&layout=compact&theme=radical)
+
+---
+
+## 🔗 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anupamyadav73458@gmail.com)
